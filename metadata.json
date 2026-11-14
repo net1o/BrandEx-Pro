@@ -1,0 +1,6 @@
+{
+  "name": "BrandEx Pro",
+  "description": "Unified Trademark Practice, Case Docket, Financial Ledger & Tax Management",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
